@@ -1,0 +1,16 @@
+.testimonial {
+  background-image: url(../../images/testimonial.jpg);
+  background-size: cover;
+  background-position: center center;
+  min-height: 200px;
+}
+.testimonial .carousel-caption {
+  right: auto;
+  width: 38rem;
+}
+.testimonial .carousel-indicators {
+  flex-direction: column;
+  right: 0;
+  left: auto;
+  bottom: 25%;
+}
